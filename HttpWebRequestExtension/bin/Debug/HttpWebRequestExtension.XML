@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HttpWebRequestExtension</name>
+    </assembly>
+    <members>
+        <member name="T:Ekstrand.Net.HttpWebRequestExtension">
+            <summary>
+            This extension allow direct editing of restricted header section of an HTTP web request header.
+            </summary>
+        </member>
+        <member name="F:Ekstrand.Net.HttpWebRequestExtension.RestrictedHeaders">
+            <summary>
+            String array of restricted HTTP web request header variables.
+            </summary>
+        </member>
+        <member name="M:Ekstrand.Net.HttpWebRequestExtension.SetRawHeader(System.Net.HttpWebRequest,System.String,System.String)">
+            <summary>
+            Set the HTTP web request header values including restricted access headers values.
+            </summary>
+            <param name="request">WebRequest</param>
+            <param name="key">Header string name value</param>
+            <param name="value">Header string value</param>
+        </member>
+    </members>
+</doc>

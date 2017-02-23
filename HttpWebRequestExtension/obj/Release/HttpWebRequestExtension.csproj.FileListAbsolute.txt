@@ -1,0 +1,16 @@
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\HttpWebRequestExtension.dll
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\HttpWebRequestExtension.pdb
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\System.Net.Http.dll
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\System.Net.Http.xml
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\obj\Release\HttpWebRequestExtension.csprojResolveAssemblyReference.cache
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\obj\Release\HttpWebRequestExtension.dll
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\obj\Release\HttpWebRequestExtension.pdb
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\HttpWebRequestExtension.XML
+C:\Users\frede\Documents\GitHub\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\HttpWebRequestExtension.XML
+C:\Users\frede\Documents\GitHub\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\HttpWebRequestExtension.dll
+C:\Users\frede\Documents\GitHub\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\HttpWebRequestExtension.pdb
+C:\Users\frede\Documents\GitHub\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\System.Net.Http.dll
+C:\Users\frede\Documents\GitHub\HttpWebRequestExtension\HttpWebRequestExtension\bin\Release\System.Net.Http.xml
+C:\Users\frede\Documents\GitHub\HttpWebRequestExtension\HttpWebRequestExtension\obj\Release\HttpWebRequestExtension.csprojResolveAssemblyReference.cache
+C:\Users\frede\Documents\GitHub\HttpWebRequestExtension\HttpWebRequestExtension\obj\Release\HttpWebRequestExtension.dll
+C:\Users\frede\Documents\GitHub\HttpWebRequestExtension\HttpWebRequestExtension\obj\Release\HttpWebRequestExtension.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HttpWebRequestExtension</name>
+    </assembly>
+    <members>
+        <member name="T:Ekstrand.Net.HttpWebRequestExtension">
+            <summary>
+            Allow for HTTP web request header section that are set by the system or set by properties or methods to be directly edited.
+            </summary>
+            <remarks>Source from: http://stackoverflow.com/questions/239725/cannot-set-some-http-headers-when-using-system-net-webrequest</remarks>
+        </member>
+        <member name="M:Ekstrand.Net.HttpWebRequestExtension.SetRawHeader(System.Net.HttpWebRequest,System.String,System.String)">
+            <summary>
+            Set the HTTP web request header values including restricted access headers values.
+            </summary>
+            <param name="request">WebRequest</param>
+            <param name="name">Header name item</param>
+            <param name="value">Header item value</param>
+        </member>
+    </members>
+</doc>

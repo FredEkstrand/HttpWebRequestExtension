@@ -1,0 +1,8 @@
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Debug\HttpWebRequestExtension.XML
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Debug\HttpWebRequestExtension.dll
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Debug\HttpWebRequestExtension.pdb
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Debug\System.Net.Http.dll
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\bin\Debug\System.Net.Http.xml
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\obj\Debug\HttpWebRequestExtension.csprojResolveAssemblyReference.cache
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\obj\Debug\HttpWebRequestExtension.dll
+C:\SoftwareProjects\HttpWebRequestExtension\HttpWebRequestExtension\obj\Debug\HttpWebRequestExtension.pdb
